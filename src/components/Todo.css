@@ -1,0 +1,39 @@
+.todo{
+    width: 70%;
+    border: 1px solid black;
+    background-color: peachpuff;
+    margin: 15px auto;
+    border-radius: 10px;
+    text-align: left;
+    padding: 10px 10px;
+    display: flex;
+    gap: 10px;
+}
+
+.task{
+    border: none;
+    background-color: antiquewhite;
+    padding: 7px 5px;
+    width: 100%;
+    border-radius: 4px;
+}
+
+.addtaskbutton{
+    width: 6%;
+    background-color: rgb(61, 228, 61);
+    border: 1px solid black;
+    border-radius: 2px;
+    cursor: pointer;
+}
+.addtaskbutton:hover{
+background-color: rgb(150, 239, 150) ;
+}
+
+.delete{
+    width: 6%;
+    background-color: rgb(228, 61, 61);
+    border: 1px solid black;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-left: auto;
+}

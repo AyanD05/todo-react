@@ -1,0 +1,21 @@
+.home {
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    background-color: lightblue;
+}
+
+.add-task {
+    padding: 5px;
+    margin: 10px 0;
+    background-color: cornflowerblue;
+    border: 1px solid black;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.add-task:hover {
+    background-color: rgb(141, 178, 248);
+}
